@@ -1,0 +1,20 @@
+div{
+    background-image: url(../800_crop_5ae80c00963e9_5ae80be467c52.webp);
+    height: 82vh;
+  width: 100%;
+   background-repeat: no-repeat;
+   /* background-size: 100% 100%; */
+   background-size: cover;
+   border-style: solid;
+   border-color: blue;
+   background-position: center;
+   background-attachment: fixed;
+
+
+}
+
+
+body{
+    /* height: 100vh; */
+    height: 2000px;
+}
